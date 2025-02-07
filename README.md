@@ -1,3 +1,7 @@
+## NOTE:
+"CFW" means Custom FirmWare. I do not have permission to distribute the CFW used.
+
+
 ## Purpose
 
 Requests input for a temperature threshold and activates buzzer when threshold is met or surpassed.
