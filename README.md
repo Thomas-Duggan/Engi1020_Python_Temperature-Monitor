@@ -1,4 +1,4 @@
-## NOTE:
+## Note
 "CFW" means Custom FirmWare. I do not have permission to distribute the CFW used.
 
 
